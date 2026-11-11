@@ -1,0 +1,7 @@
+[{
+  "modid": "bmrf",
+  "name": "BMRF",
+  "description": "BMRF block pack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}"
+}]
